@@ -1,5 +1,5 @@
 # CS6714_Project_Stage_2
- 
+[project specification](https://github.com/zyjwarlock/CS6714_Project_Stage_2/blob/master/COMP6714%20Project%20Specification%20(stage%202).ipynb) 
 ## COMP6714 18s2 Project Report
 
 ### How do you implement evaluate() ?
